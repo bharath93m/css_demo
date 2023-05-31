@@ -103,7 +103,7 @@
     .tags {
         color: #f72585;
     }
-    li a {
+    li {
         color : #ffafcc;
     }
 
